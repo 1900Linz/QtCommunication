@@ -7,11 +7,6 @@
 *.o
 *.obj
 
-#vs project files
-*.vcxproj.user
-*.vcxproj
-*.vcxproj.filters
-
 # Precompiled Headers
 *.gch
 *.pch
@@ -36,7 +31,5 @@
 *.out
 *.app
 
-#binFloder
-x64/
-.vs/
-build-QtDeviceCommunication-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+*debug/
+*release/
