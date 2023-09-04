@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.1, 2023-09-02T23:01:12. -->
+<!-- Written by QtCreator 4.11.1, 2023-09-04T14:20:52. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -287,8 +287,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/ProgramProj/QtDeviceCommunication/withMQTT/withMQTT.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/ProgramProj/QtDeviceCommunication/withMQTT/withMQTT.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">withMQTT2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/ProgramProj/QtCommunication/withMQTT/withMQTT.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/ProgramProj/QtCommunication/withMQTT/withMQTT.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -299,7 +300,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/ProgramProj/build-QtDeviceCommunication-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/withMQTT</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/ProgramProj/QtDeviceCommunication/withMQTT</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
@@ -361,8 +362,8 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/ProgramProj/QtDeviceCommunication/withModbus/withModbus.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/ProgramProj/QtDeviceCommunication/withModbus/withModbus.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/ProgramProj/QtCommunication/withUsbCamera/withUsbCamera.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/ProgramProj/QtCommunication/withUsbCamera/withUsbCamera.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -373,7 +374,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/ProgramProj/build-QtDeviceCommunication-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/withModbus</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/ProgramProj/QtDeviceCommunication/withUsbCamera</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">2</value>
   </valuemap>
