@@ -6,11 +6,11 @@ CONFIG += c++17
 DEFINES += QT_DEPRECATED_WARNINGS
 
 HEADERS += \
-    plugin.h
+    DevPluginUSB.h
 
 SOURCES += \
-        main.cpp \
-        plugin.cpp
+        DevPluginUSB.cpp \
+        main.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

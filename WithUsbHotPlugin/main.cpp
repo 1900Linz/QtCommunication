@@ -1,7 +1,7 @@
 #include <QApplication>
 #include <QMainWindow>
 #include <QDebug>
-#include "plugin.h"
+#include "DevPluginUSB.h"
 
 #include <Windows.h>
 #include <Dbt.h>

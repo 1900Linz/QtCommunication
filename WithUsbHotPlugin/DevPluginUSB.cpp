@@ -1,4 +1,4 @@
-#include "plugin.h"
+#include "DevPluginUSB.h"
 #include <QMetaObject>
 #include <QHash>
 #include <QDebug>
