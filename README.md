@@ -9,7 +9,7 @@
 
 - [x] [MQTT](#MQTT) <br/>
 - [x] [windows|Dev USB](#windows+usb) <br/>
-- [ ] [modBus](#modBus) <br/>
+- [ ] [modBus](#modBus|tcp) <br/>
 - [ ] [qt5|http](#qt5+http) <br/>
  
 # MQTT
@@ -48,7 +48,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerd
 
 ---
 
-# modBus tcp
+# modBus|tcp
 **更新时间：2023/?/?**
 
 ## description
@@ -58,7 +58,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerd
 
 ---
 
-#qt5+http
+# qt5+http
 **更新时间：2023/?/?**
 
 ## description
