@@ -33,3 +33,6 @@
 
 *debug/
 *release/
+ui*
+makefile*
+*.stash
