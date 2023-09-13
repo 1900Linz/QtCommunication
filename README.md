@@ -9,7 +9,7 @@
 
 - [x] [MQTT](#MQTT) <br/>
 - [x] [windows_Platform_USB](#windows_Platform_USB) <br/>
-- [ ] [modBus_tcp](#modBus_tcp) <br/>
+- [x] [modBus_tcp](#modBus_tcp) <br/>
 - [ ] [HTTPon5](#HTTPon5) <br/>
  
 # MQTT
@@ -57,7 +57,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-registerd
 
 ## description
 - [X] [基于Qt5模块的](https://github.com/1900Linz/QtCommunication/tree/main/withQtModbus)
-- [ ] [基于第三方库的]()
+- [X] [基于第三方库的开发资料](https://github.com/1900Linz/QtCommunication/tree/main/withLibModbus)
 ## 返回目录
 [backtotop](#ContentList)  <br/>
 
